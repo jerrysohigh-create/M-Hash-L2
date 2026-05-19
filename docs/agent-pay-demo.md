@@ -139,8 +139,8 @@ These are standard EVM contracts. No modifications to M Hash L2 core or OP Stack
 |-----------|-------|
 | Network Name | M Hash L2 Testnet |
 | Chain ID | `20250827` (verify with official docs) |
-| RPC URL | `https://testnet-rpc.mhash.ai` |
-| Block Explorer | `https://testnet-explorer.mhash.ai` |
+| RPC URL | `https://l2-rpc.testnet.magicalhash.com` |
+| Block Explorer | `https://l2-explorer.testnet.magicalhash.com` |
 | Target Block Time | ~400ms |
 | Target Gas Fee | <$0.0025 |
 
